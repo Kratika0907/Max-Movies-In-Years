@@ -57,7 +57,7 @@ function findMaxInterval(mapYear) {
     let yearSet = new Set();
     for (let i = 0; i < intervals.length; ++i) {
         for (let j = intervals[i][0]; j < intervals[i][1]; ++j) {
-            yearSet.add(j)
+            yearSet.add(parseInt(j))
         }
     }
     return yearSet;

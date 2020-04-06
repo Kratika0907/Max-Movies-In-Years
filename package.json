@@ -1,0 +1,26 @@
+{
+  "name": "max-movies-in-years",
+  "version": "1.0.0",
+  "description": "max-movies-year",
+  "main": "no",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+     "test": "cd test && node testCases"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kratika0907/Max-Movies-In-Years.git"
+  },
+  "author": "Kratika Chowdhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kratika0907/Max-Movies-In-Years/issues"
+  },
+  "homepage": "https://github.com/Kratika0907/Max-Movies-In-Years#readme"
+}

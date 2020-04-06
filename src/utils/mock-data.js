@@ -80,5 +80,12 @@ module.exports = {
     response2,
     response3,
     response4,
-    empty_response: []
+    empty_response: [],
+    output:{
+        response1 : [2006,2007,2009],
+        response2 : [2001,2002,2003,2007,2008],
+        response3 : [2008],
+        response4 : [2007],
+        empty_response : []
+    }
 }

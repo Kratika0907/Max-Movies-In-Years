@@ -10,6 +10,8 @@ Perpare set based on obtained interval
 Time complexity = O(nlogn) where n will be the elements in array
 Space complexity = O((Ymax-Ymin))
 
+To run the project -> npm run test 
+
 
 
 
